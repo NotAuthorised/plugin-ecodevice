@@ -15,10 +15,10 @@
         "Unité": "Einheit",
         "Paramètres": "Parameter",
         "Sauvegarder": "Speichern",
-        "Type": "Type",
-        "Sans": "Sans",
+        "Type": "Typ",
+        "Sans": "Ohne",
         "Mettre le compteur en mode fuel et 1 dans le débit du gicleur sur l'ecodevice.": "Mettre le compteur en mode fuel et 1 dans le débit du gicleur sur l'ecodevice.",
-        "Les indicateurs sont regénérés après sauvegarde.": "Les indicateurs sont regénérés après sauvegarde."
+        "Les indicateurs sont regénérés après sauvegarde.": "Die Indikatoren werden nach dem Backup neu generiert."
     },
     "plugins\/ecodevice\/desktop\/php\/ecodevice_teleinfo.php": {
         "Général": "Allgemein",
@@ -37,7 +37,7 @@
         "Unité": "Einheit",
         "Paramètres": "Parameter",
         "Sauvegarder": "Speichern",
-        "Les indicateurs sont regénérés en cas de changement de tarif après sauvegarde.": "Les indicateurs sont regénérés en cas de changement de tarif après sauvegarde."
+        "Les indicateurs sont regénérés en cas de changement de tarif après sauvegarde.": "Die Indikatoren werden bei einem Tarifwechsel nach dem Backup neu generiert."
     },
     "plugins\/ecodevice\/desktop\/php\/ecodevice.php": {
         "Ajouter un Ecodev": "Ecodev hinzufügen",
@@ -65,37 +65,37 @@
         "Supprimer": "Löschen",
         "Sauvegarder": "Speichern",
         "Sauvegarde effectuée avec succès": "Backup wurde erfolgreich abgeschlossen",
-        "Utilisez sur l\\icône suivant pour voir le détail de l\\'élément <i class=\"fa fa-sitemap\"><\/i>": "Verwenden Sie das folgende Symbol, um die Details des Elementes zu sehen <i class=\"fa fa-sitemap\"><\\/i>",
-        "Gestion": "Gestion",
-        "Configuration": "Configuration",
-        "Accéder à la carte": "Accéder à la carte",
-        "Utilisez l\\icône suivant pour voir le détail de l\\'élément <i class=\"fa fa-sitemap\"><\/i>": "Utilisez l\\icône suivant pour voir le détail de l\\'élément <i class=\"fa fa-sitemap\"><\/i>"
+        "Utilisez sur l\\icône suivant pour voir le détail de l\\'élément <i class=\"fa fa-sitemap\"><\/i>": "Klicken Sie auf das folgende Symbol, um die Details des Elements zu sehen <i class=\"fa fa-sitemap\"></i>",
+        "Gestion": "Verwaltung",
+        "Configuration": "Konfiguration",
+        "Accéder à la carte": "Auf die Karte zugreifen",
+        "Utilisez l\\icône suivant pour voir le détail de l\\'élément <i class=\"fa fa-sitemap\"><\/i>": "Verwenden Sie das folgende Symbol, um die Details des Elementes zu sehen <i class=\"fa fa-sitemap\"></i>"
     },
     "plugins\/ecodevice\/plugin_info\/info.json": {
-        "Nécessite firmware 1.04.82 minimum": "Nécessite firmware 1.04.82 minimum"
+        "Nécessite firmware 1.04.82 minimum": "Erfordert mindestens Firmware 1.04.82"
     },
     "plugins\/ecodevice\/core\/class\/ecodevice.class.php": {
-        "L'ecodevice ne repond pas.": "L'ecodevice ne repond pas."
+        "L'ecodevice ne repond pas.": "Das Ecodevice antwortet nicht."
     },
     "plugins\/ecodevice\/core\/class\/ecodevice_compteur.class.php": {
-        "Eau": "Eau",
-        "Fuel": "Fuel",
-        "Gaz": "Gaz",
-        "Electricité": "Electricité",
-        "Autre": "Autre"
+        "Eau": "Wasser",
+        "Fuel": "Treibstoff",
+        "Gaz": "Gas",
+        "Electricité": "Strom",
+        "Autre": "Andere"
     },
     "plugins\/ecodevice\/desktop\/js\/ecodevice.js": {
-        "Nom": "Nom",
-        "Unite": "Unite",
+        "Nom": "Name",
+        "Unite": "Einheit",
         "Min": "Min",
         "Max": "Max",
-        "Historiser": "Historiser",
-        "Afficher": "Afficher",
-        "Tester": "Tester",
-        "Accèder à l'interface de l'Ecodevice": "Accèder à l'interface de l'Ecodevice"
+        "Historiser": "Archivieren",
+        "Afficher": "Anzeigen",
+        "Tester": "Testen",
+        "Accèder à l'interface de l'Ecodevice": "Zugriff auf die Ecodevice Schnittstelle"
     },
     "plugins\/ecodevice\/plugin_info\/configuration.php": {
-        "Temporisation minumum entre deux lectures en secondes pour les débits et consommations instantanées": "Temporisation minumum entre deux lectures en secondes pour les débits et consommations instantanées",
-        "Trop diminuer cette valeur peut rendre instable votre serveur": "Trop diminuer cette valeur peut rendre instable votre serveur"
+        "Temporisation minumum entre deux lectures en secondes pour les débits et consommations instantanées": "Minimale Zeitverzögerung zwischen zwei Messungen in Sekunden für Durchflussraten und Momentanverbrauch",
+        "Trop diminuer cette valeur peut rendre instable votre serveur": "Wenn Sie diesen Wert zu stark verringern, kann Ihr Server instabil werden"
     }
 }
